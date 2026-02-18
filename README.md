@@ -1,7 +1,7 @@
 # A02
 
 
-Directions:
+* Directions:
 
 The first step to getting started is downloading and installing **Git** from  https://git-scm.com/downloads. You should follow the installer prompts and leave the default settings as normal. Once it is installed, you can check if it worked by typing git --version into a new terminal window. 
 
@@ -32,7 +32,7 @@ You might experience a **merge conflict** which is when two branches change the 
 
 
 
-Glossary: 
+* Glossary: 
 
 Branch - This is a separate copy of your code where you can work on new features without changing the main version.
 
@@ -46,7 +46,7 @@ GIT - Software that tracks every change you make to your files, and helps many p
 
 Github - A website where you can store code online and share it with others.
 
-Merge - Combining changes from branch into another branch
+Merge - Combining changes from one branch into another branch
 
 Merge Conflict - When two people change the same line or part of the code differently and Git needs you to decide which version to keep.
 
@@ -62,8 +62,12 @@ Repository - A folder that stores all of your project files and the history of a
 
 
 
-References: 
 
+* References: 
+
+https://www.w3schools.com/git/
+[https://learn.github.com/skills
+https://code.visualstudio.com/docs
 
 
 
